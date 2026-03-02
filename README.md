@@ -1,2 +1,2 @@
 # C_programming
-basic c programs
+C PROGRAMS

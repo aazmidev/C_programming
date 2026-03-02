@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+  char c;
+  c=getc(stdin);
+  printf("the ASCII vslur of %c is %d",c,c);
+  return 0;
+}
